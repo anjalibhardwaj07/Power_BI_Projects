@@ -1,5 +1,5 @@
 # Power_BI_Projects
-I have completed my first project on Sales Dashboard by using Power BI.
+I have completed my first project on Sales Dashboard by using Power BI.                                                                                             
 Objective:
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis , to provide valuable insights.
 Description:
